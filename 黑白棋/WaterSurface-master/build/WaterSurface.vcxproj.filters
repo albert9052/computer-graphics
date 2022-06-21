@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Download\黑白棋\WaterSurface-master\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Download\黑白棋\WaterSurface-master\src\CallBacks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Download\黑白棋\WaterSurface-master\src\ControlPoint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Download\黑白棋\WaterSurface-master\src\Track.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Download\黑白棋\WaterSurface-master\src\TrainView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Download\黑白棋\WaterSurface-master\src\TrainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Download\黑白棋\WaterSurface-master\include\glad4.6\src\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Download\黑白棋\WaterSurface-master\src\RenderUtilities\BufferObject.h">
+      <Filter>RenderUtilities</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Download\黑白棋\WaterSurface-master\src\RenderUtilities\Shader.h">
+      <Filter>RenderUtilities</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Download\黑白棋\WaterSurface-master\src\RenderUtilities\Texture.h">
+      <Filter>RenderUtilities</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Download\黑白棋\WaterSurface-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Download\黑白棋\WaterSurface-master\src\CallBacks.H" />
+    <None Include="D:\Download\黑白棋\WaterSurface-master\src\ControlPoint.H" />
+    <None Include="D:\Download\黑白棋\WaterSurface-master\src\Object.H" />
+    <None Include="D:\Download\黑白棋\WaterSurface-master\src\Track.H" />
+    <None Include="D:\Download\黑白棋\WaterSurface-master\src\TrainView.H" />
+    <None Include="D:\Download\黑白棋\WaterSurface-master\src\TrainWindow.H" />
+    <None Include="D:\Download\黑白棋\WaterSurface-master\src\shaders\simple.vert">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="D:\Download\黑白棋\WaterSurface-master\src\shaders\simple.frag">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="RenderUtilities">
+      <UniqueIdentifier>{F3F662B3-467D-32D1-854A-67FA99FA96C0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DF99D3E5-CC6D-3FC1-A4F1-D2C990774CD3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{BEE63956-5D25-3FFB-96BD-F6A132B57440}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

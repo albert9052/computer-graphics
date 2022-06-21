@@ -1,0 +1,4 @@
+D:/Download/p1_release_skeleton/CMakeFiles/ImageEditing.dir
+D:/Download/p1_release_skeleton/CMakeFiles/libtarga.dir
+D:/Download/p1_release_skeleton/CMakeFiles/ALL_BUILD.dir
+D:/Download/p1_release_skeleton/CMakeFiles/ZERO_CHECK.dir
