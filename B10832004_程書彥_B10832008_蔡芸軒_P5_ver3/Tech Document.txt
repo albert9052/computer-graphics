@@ -1,0 +1,13 @@
+
+我們這次做了摩天輪，雲霄飛車，subdivision 的路面，particles 的雨，
+billboard 的立牌，skybox，還有匯入模型
+
+
+參考資料
+https://www.programmersought.com/article/70534728263/
+https://blog.csdn.net/wangdingqiaoit/article/details/52014321
+
+version 3 新增 :
+遊樂設施視角(可自由轉動)
+子彈發射
+fog effect

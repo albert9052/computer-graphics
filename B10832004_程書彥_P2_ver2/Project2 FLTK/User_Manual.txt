@@ -1,0 +1,6 @@
+Use following steps
+Step 1. Open Skeleton.exe. 
+Step 2. Press "Load Maze" and input one of the four maze in the "Sources" folder.
+Step 3. Press OK.
+Step 4. In the Maze View section, you can control your character by swiping up to move forward or swiping down to move backward while holding the left key of your mouse. In case you need to turn around, you can hold your left key of the mouse, and swipe left and right to change your viewing directions. 
+Step 5. Enjoy it!!!
